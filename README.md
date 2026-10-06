@@ -9,7 +9,7 @@ Claude Code mod for the Syncthing-synced `claude-code` workspace. Applies only w
 ## Install
 
 ```
-/plugin install workspace-guard --marketplace <owner>/<repo>
+/plugin install workspace-guard --marketplace atsusta/workspace-guard-mod
 ```
 
 Answer `y` to add the marketplace, then pick the user scope.
