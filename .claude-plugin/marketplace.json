@@ -1,0 +1,5 @@
+{
+  "name": "sejin-mods",
+  "owner": { "name": "sejin" },
+  "plugins": [{ "name": "workspace-guard", "source": "./" }]
+}

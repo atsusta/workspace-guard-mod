@@ -1,0 +1,1 @@
+{ "name": "workspace-guard", "version": "0.1.0", "description": "Blocks reading .gitignore and creating venvs or heavy media inside the Syncthing-synced claude-code workspace." }
